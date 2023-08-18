@@ -1,2 +1,2 @@
-## that's all folks
-### <img aling='left' src="src/assets/thatsallfolks.gif">
+## That's all Folks
+### <img aling='left' src="assets/thatsallfolks.gif">
