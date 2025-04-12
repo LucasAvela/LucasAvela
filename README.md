@@ -19,7 +19,6 @@
   <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" width="50"/>
   <img src="https://img.icons8.com/color/50/000000/unity.png" alt="Unity" width="50"/>
   <img src="https://img.icons8.com/color/50/000000/unreal-engine.png" alt="Unreal" width="50"/>
-  <img src="https://img.icons8.com/color/50/000000/game-maker.png" alt="Game Maker" width="50"/>
 </p>
 
 ## 📬 Let's Connect!
