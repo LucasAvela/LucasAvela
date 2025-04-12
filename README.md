@@ -5,7 +5,8 @@
 
 🖥️ Software Engineer </br> 🦾 Automation Engineering student </br> 🎮 Game Dev </br> 🤖 Learning Machile Learning </br> </br> Developer at [Beta2Games](https://www.beta2games.com/)</br> [Hydrone](https://www.linkedin.com/company/hydrone123) Researcher</br></br>
 
-
+</br>
+</br>
 ## 🖋️ Languages & Tools:
 
 <p align="left">
