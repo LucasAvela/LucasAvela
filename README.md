@@ -3,7 +3,7 @@
 ### <img align='right' src="assets/Daffy_Duck.png" height="250">
 
 
-🖥️ Software Engineer </br> 🦾 Automation Engineering student </br> 🎮 Game Dev </br> 🤖 Learning Machile Learning </br> </br> Developer at [Beta2Games](https://www.beta2games.com/)</br> [Hydrone](https://www.linkedin.com/company/hydrone123) Researcher</br></br>
+🖥️ Software Engineer </br> 🦾 Automation Engineering student </br> 🎮 Game Dev </br> 🤖 Learning Machine Learning </br> </br> Developer at [Beta2Games](https://www.beta2games.com/)</br> [Hydrone](https://www.linkedin.com/company/hydrone123) Researcher</br></br>
 
 </br>
 </br>
